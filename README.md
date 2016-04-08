@@ -4,7 +4,7 @@
 
 # 集成方法
 
-1.引入GBKeyboardManager.h
-2.使用：
+######1.引入GBKeyboardManager.h
+######2.使用：
 [GBKeyboardManager addRegisterKeyboardForView:UITextField];
-3.在dealloc中调用[GBKeyboardManager removeRegisterKeyboard];
+######3.在dealloc中调用[GBKeyboardManager removeRegisterKeyboard];
