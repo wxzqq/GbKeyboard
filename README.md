@@ -1,6 +1,6 @@
 # GbKeyboard
 # 效果图
-![image](https://github.com/wxzqq/GbKeyboard/GbKeyboard/gbkeyboard.png)
+![image](https://github.com/wxzqq/GbKeyboard/blob/master/GbKeyboard/gbkeyboard.png)
 
 # 集成方法
 
